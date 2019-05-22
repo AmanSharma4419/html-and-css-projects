@@ -1,0 +1,88 @@
+.margin {
+	margin-bottom: 20px;
+
+}
+.left {
+	float: left;
+}
+.clear {
+	text-align: center;
+	width: 900px;
+	margin: 0 auto 20px auto;
+	border: 0;
+	clear: both;
+	padding: 20px;
+	border-bottom: 2px solid grey;
+}
+.right {
+	float: right;
+	height: 100px;
+	width: 100px; 
+}
+.ab {
+	height: 100px;
+	width: 100px;
+	float:right;
+}
+.m {
+	margin-left: 10px;
+	background-color: blue;
+}
+.left {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+.no {
+
+	height: 100px;
+	width:100px;
+}
+.background {
+	background-color: pink;
+	padding: 10px 5px 10px 10px;
+	border: 2px solid red;
+	margin-top: 8px;
+}
+.boxoutr {
+	background-color: yellow;
+	padding: 10px 10px 10px 10px;
+}
+.flow {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+.box1 {
+	background-color: orange;
+	height: 50px;
+	width: 100%;
+	float: left;
+	margin-top: 15px;
+}
+.box {
+ 	padding: 20px;
+ 	background-color: green;
+ 	border:2px solid red;
+}
+.box2 {
+	background-color: orange;
+	height: 100px;
+	width: 150px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 5px;
+}
+.c {
+     
+	clear: left;
+}
+.boxi {
+	clear: both;	
+}
+.main {
+  margin: auto 50px;
+}
+.font {
+	font-size: 30px;
+}

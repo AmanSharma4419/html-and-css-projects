@@ -1,0 +1,65 @@
+.p {
+	
+	background: #fff url("../../down.jpeg") center center no-repeat;
+	background-size: cover;
+}
+.img {
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+}
+.butn {
+	display: inline-block;
+}
+.sig {
+
+	background-color: yellow;
+	color: white; 
+}
+.block {
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-color: yellow;
+	font-size: 95px;
+	margin-top: 60px;
+}
+.bucket {
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+.align {
+	color: white;
+}
+.but {
+	height: 30px;
+	width: 100px;
+	background-color: green;
+	padding-bottom: 38px;
+	padding-top: 3px;
+}
+.butx {
+
+	color: white;
+	background-color:blue;
+	height: 30px;
+	width: 150px;
+	padding-bottom: 40px;
+}
+.alter {
+	margin-top: 50px;
+	color: white;
+}
+.pad {
+	padding: 50px;
+	color: white;
+}
+.color {
+	color: white;
+	font-size: 15px;
+}
+.colo {
+	color: white;
+}
