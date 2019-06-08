@@ -1,0 +1,98 @@
+html {
+    font-size: 18px;
+}
+.parent {
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    width: 100%;
+    margin-bottom: 2.5rem;
+}
+.div1 {
+    background: black;
+    color: white;
+    text-align: center;
+    padding:1rem 1rem;
+}
+.div2 {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding:1rem 1rem;
+}
+.div3 {
+    background: black;
+    color: white;
+    text-align: center;
+    padding:1rem 1rem;
+}
+.shipping {
+    font-size: 2rem; 
+}
+.heading {
+    font-size:1.2rem;
+    font-weight:100;
+    text-transform: uppercase;
+    font-family: 'Hind', sans-serif;
+}
+.font {
+    font-size: 0.7rem;
+    color: #777;
+}
+.div1:hover{
+    background-color:aqua;
+}
+.div2:hover {
+    background-color: aqua
+}
+.div3:hover {
+    background-color: aqua;
+}
+.footer {
+    padding-top: 4rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.span {
+    font-weight: 700;
+    color: #74d2e7;
+    font-size: 1.9rem;
+
+}
+.online {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-size: 0.7em;
+    color: #999;
+    letter-spacing: 0.4rem;
+    font-weight: 600;
+    text-shadow: 0,6px 0.2px 0.5px rgba(78, 73, 73, 0.21);
+}
+.arrow {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+.follow {
+    text-transform:capitalize;
+    font-weight: 400;
+    font-family:  'Hind', sans-serif;
+    text-align: center;
+}
+.fonts {
+    text-transform: capitalize;
+    font-size: 1rem;
+}
+.text {
+    text-align: center;
+}
+.anchor {
+    text-decoration: none;
+    color: black;
+}
+.last {
+    font-size: 0.8rem;
+    padding-top: 1rem;
+}
+.arrow {
+    background:aliceblue;
+    margin-top: 3rem;
+}
